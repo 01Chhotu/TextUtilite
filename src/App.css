@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+textarea{
+  margin-left: 500px;
+  width: 80%;
+}
+.ml{
+  margin-left: 800px;
+}
